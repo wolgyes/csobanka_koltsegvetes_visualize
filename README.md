@@ -1,5 +1,10 @@
 ## Csobánka 2020-2023-as évekre vonatkozó költségvetési összefoglaló diagrammos formában
 
+Az alábbi 2 svg-n Csobánka Község Önkormányzatának 2020-2023-as költségvetése látható.\
+A diagrammok elkészültek továbbá html fromában is. A html-ek interaktívak.\
+Ezeket külön a: ![Diagrammok](diagrammok/) alatt találhatóak.\
+Vagy letölthetőek innen egyben: ![Diagrammok ZIP](https://github.com/wolgyes/csobanka_koltsegvetes_visualize/raw/main/diagrammok.zip)
+
 ### Bevételek:
 ![](diagrammok/Bevételek.svg)
 
